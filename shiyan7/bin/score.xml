@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<score>
+	<name>
+	        <alias>张三</alias>
+		<math>89</math>
+		<english>90</english>
+	</name>
+	<name>
+		<alias>李四</alias>
+		<math>92</math>
+		<english>87</english>
+	</name>
+	<name>
+		<alias>王五</alias>
+		<math>95</math>
+		<english>90</english>
+	</name>
+</score>
